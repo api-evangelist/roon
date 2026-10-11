@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "roon",
+    "captured_at": "2026-10-11T192603",
+    "source_url": "https://www.roon.com",
+    "source_type": "Website",
+    "file": "roon-2026-10-11T192603.png",
+    "bytes": 16732,
+    "capture": "playwright-local"
+  }
+]
